@@ -1,2 +1,2 @@
 Test repository for local studies
-first changes
+second changes
